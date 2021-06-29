@@ -1,0 +1,23 @@
+{
+  "name": "repro-vim-ale-bin-fixers-extra-exec",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">   <h1>repro-vim-ale-bin-fixers-extra-exec</h1>   <strong>This repo is to reproduce a bug I noticed while using the vim-ale plugin</strong> </div>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nargonath/repro-vim-ale-bin-fixers-extra-exec.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nargonath/repro-vim-ale-bin-fixers-extra-exec/issues"
+  },
+  "homepage": "https://github.com/Nargonath/repro-vim-ale-bin-fixers-extra-exec#readme",
+  "devDependencies": {
+    "vue-loader": "^15.9.7"
+  }
+}
